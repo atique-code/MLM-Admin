@@ -85,7 +85,7 @@ const TableList = () => {
     }
   };
 
-  //
+
 
   // Status badge component
   const StatusBadge = ({ status }) => {
